@@ -1,6 +1,9 @@
 # YOLOv7 Pose Detection with Squat Counter
 
 This project uses YOLOv7 to perform real-time human pose estimation and squat counting through webcam.
+Members:
+    Phan Nguyen Tuan Minh - 22BI13307 
+    Nguyen Ha My - 22BI13318
 
 ## Project Structure
 
